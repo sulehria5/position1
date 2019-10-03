@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+section {
+    background-image:url("/img/photo-1486523834155-1dabf4edaa64.jpeg"); 
+    height:100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+section p:nth-of-type(1){
+    
+    font-size: 3em;
+    color: #fff;
+    position: absolute;
+    left: 70%;
+    top: 40%;
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+}
